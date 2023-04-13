@@ -3,4 +3,5 @@
 <h3>인생 작품</h3>
 </hr>
 
-<img width="491" alt="image" src="https://user-images.githubusercontent.com/75960352/231615689-d8e35dd7-6fc8-4924-82c8-0d5dfc8eb4fe.png">
+<img width="339" alt="image" src="https://user-images.githubusercontent.com/75960352/231675492-94ee9b25-20b2-40e8-a6b7-dba4ce17e700.png">
+
