@@ -5,7 +5,7 @@ import Table from 'react-bootstrap/Table';
 
 const Tax = () => {
     return (
-        <center >
+        <center style={{margin:'40px'}}>
              {/* <Container style={{display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center'}}> */}
             <Table  style={{width:"850px",border: "1px solid blue" ,textAlign:'center' }}>
                 <tr  style={{border: "1px solid blue" ,  color:'blue'}}>
