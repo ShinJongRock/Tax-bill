@@ -51,12 +51,12 @@ const Tax = () => {
                     
                 </tr>
                 <tr>
-                <td colSpan='3' style={{border: "1px solid blue" ,  color:'blue' ,width:"10px",height:'20px',fontSize:'18px' ,textAlign:'center'}}> 상 호 (법인명)</td>
+                <td colSpan='3' style={{border: "1px solid blue" ,  color:'blue' ,width:"10px",height:'20px',fontSize:'18px' ,textAlign:'center'}}> &nbsp; 상 호 &nbsp; (법인명)</td>
                 <td colSpan='6' style={{border: "1px solid blue" ,  color:'blue'}}></td>
                 <td style={{border: "1px solid blue" ,  color:'blue'  , width:'5px'}}>성명</td>
                 <td  colSpan='4' style={{border: "1px solid blue" ,  color:'blue'}}></td>
                 <td style={{border: "1px solid blue" ,  color:'blue'  , width:'5px'}}>인</td>
-                <td colSpan='3' style={{border: "1px solid blue" ,  color:'blue' ,width:"10px",height:'20px',fontSize:'20px',textAlign:'center'}}>상 호 (법인명)</td>
+                <td colSpan='3' style={{border: "1px solid blue" ,  color:'blue' ,width:"10px",height:'20px',fontSize:'20px',textAlign:'center'}}> &nbsp;상 호 &nbsp; (법인명)</td>
                 <td colSpan='6' style={{border: "1px solid blue" ,  color:'blue'}}></td>
                 <td style={{border: "1px solid blue" ,  color:'blue' , width:'5px'}}>성명</td>
                 <td  colSpan='4' style={{border: "1px solid blue" ,  color:'blue'}}></td>
@@ -66,7 +66,7 @@ const Tax = () => {
                 <tr>
                 <td colSpan='3' style={{border: "1px solid blue" ,  color:'blue'  ,width:"10px",height:'20px',fontSize:'18px'}}>사업장 주소</td>
                 <td colSpan='12' style={{border: "1px solid blue" ,  color:'blue'}}></td>
-                <td colSpan='3' style={{border: "1px solid blue" ,  color:'blue' ,width:"25px",height:'20px',fontSize:'18px'}}>사업장 주소</td>
+                <td colSpan='3' style={{border: "1px solid blue" ,  color:'blue' ,width:"25px",height:'20px',fontSize:'18px'}}>사업장 &nbsp;주소</td>
                 <td colSpan='12' style={{border: "1px solid blue" ,  color:'blue'}}></td>
                 </tr>
 
@@ -116,7 +116,7 @@ const Tax = () => {
                 
                 </tr>
                 <tr>
-                    <td colSpan='2' style={{border: "1px solid blue" ,  color:'blue',height:'50px' }}>2020</td>
+                    <td colSpan='2' style={{border: "1px solid blue" ,  color:'blue',height:'50px' }}>2023</td>
                         <td style={{border: "1px solid blue" ,  color:'blue',height:'50px'}}></td>
                         <td style={{border: "1px solid blue" ,  color:'blue',height:'50px'}}></td>
                         <td colSpan='2' style={{border: "1px solid blue" ,  color:'blue',height:'50px'}}></td>
@@ -203,7 +203,7 @@ const Tax = () => {
                     </tr>
 
                     <tr>
-                        <td colSpan='5' style={{border: "1px solid blue" ,  color:'blue'}}>합계금액</td>
+                        <td colSpan='5' style={{border: "1px solid blue" ,  color:'blue'}}>합 계 금 액</td>
                         <td colSpan='5' style={{border: "1px solid blue" ,  color:'blue'}}>현 금</td>
                         <td colSpan='5' style={{border: "1px solid blue" ,  color:'blue'}}>수표</td>
                         <td colSpan='5' style={{border: "1px solid blue" ,  color:'blue'}}>어음</td>
@@ -228,7 +228,7 @@ const Tax = () => {
 
             <Table  style={{width:"850px",border: "1px solid red"  ,textAlign:'center'}}>
                 <tr  style={{border: "1px solid red" ,  color:'red'}}>
-                    <td colspan='15' rowspan='2' style={{height:'60px',width:'50px',fontSize:'30px'}}> 세 금 계 산 서 </td>
+                    <td colspan='15' rowspan='2' style={{height:'60px',width:'50px',fontSize:'30px' , textAlign:'left'}}> 세 금 계 산 서 </td>
                     <td colSpan='7'  rowspan='2'style={{width:'10px'}}>공급받는자 보관용</td>
                     <td colSpan='4' style={{border: "1px solid red" ,  color:'red',width:'100px'}}>책 번 호</td>
                     <td colSpan='3' style={{border: "1px solid red" ,  color:'red' ,textAlign:'right'}}>권</td>
@@ -270,12 +270,12 @@ const Tax = () => {
                     
                 </tr>
                 <tr>
-                <td colSpan='3' style={{border: "1px solid red" ,  color:'red' ,width:"10px",height:'20px',fontSize:'18px'}}>상 호 (법인명)</td>
+                <td colSpan='3' style={{border: "1px solid red" ,  color:'red' ,width:"10px",height:'20px',fontSize:'18px'}}>&nbsp;상 호 &nbsp; (법인명)</td>
                 <td colSpan='6' style={{border: "1px solid red" ,  color:'red'}}></td>
                 <td style={{border: "1px solid red" ,  color:'red'  , width:'5px'}}>성명</td>
                 <td  colSpan='4' style={{border: "1px solid red" ,  color:'red'}}></td>
                 <td style={{border: "1px solid red" ,  color:'red'  , width:'5px'}}>인</td>
-                <td colSpan='3' style={{border: "1px solid red" ,  color:'red' ,width:"10px",height:'20px',fontSize:'20px'}}>상 호 (법인명)</td>
+                <td colSpan='3' style={{border: "1px solid red" ,  color:'red' ,width:"10px",height:'20px',fontSize:'20px'}}>&nbsp;상 호 &nbsp;(법인명)</td>
                 <td colSpan='6' style={{border: "1px solid red" ,  color:'red'}}></td>
                 <td style={{border: "1px solid red" ,  color:'red' , width:'5px'}}>성명</td>
                 <td  colSpan='4' style={{border: "1px solid red" ,  color:'red'}}></td>
@@ -285,7 +285,7 @@ const Tax = () => {
                 <tr>
                 <td colSpan='3' style={{border: "1px solid red" ,  color:'red'  ,width:"10px",height:'20px',fontSize:'18px'}}>사업장 주소</td>
                 <td colSpan='12' style={{border: "1px solid red" ,  color:'red'}}></td>
-                <td colSpan='3' style={{border: "1px solid red" ,  color:'red' ,width:"25px",height:'20px',fontSize:'18px'}}>사업장 주소</td>
+                <td colSpan='3' style={{border: "1px solid red" ,  color:'red' ,width:"25px",height:'20px',fontSize:'18px'}}>사업장 &nbsp;주소</td>
                 <td colSpan='12' style={{border: "1px solid red" ,  color:'red'}}></td>
                 </tr>
 
@@ -367,7 +367,7 @@ const Tax = () => {
                         <td style={{border: "1px solid red" ,  color:'red'}}>일</td>
                         <td style={{border: "1px solid red" ,  color:'red'}}>월</td>
                         <td colSpan='6' style={{border: "1px solid red" ,  color:'red'}}>품 목</td>
-                        <td colSpan='3' style={{border: "1px solid red" ,  color:'red'}}>규격</td>
+                        <td colSpan='3' style={{border: "1px solid red" ,  color:'red'}}>규 격</td>
                         <td colSpan='3' style={{border: "1px solid red" ,  color:'red'}}>수량</td>
                         <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>단 가</td>
                         <td colSpan='6' style={{border: "1px solid red" ,  color:'red'}}>공 급 가 액</td>
@@ -424,8 +424,8 @@ const Tax = () => {
                     <tr>
                         <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>합계금액</td>
                         <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>현 금</td>
-                        <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>수표</td>
-                        <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>어음</td>
+                        <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>수 표</td>
+                        <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>어 음</td>
                         <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>외상미수금</td>
                         <td colSpan='7'  rowspan='2' style={{border: "1px solid red" ,  color:'red'}}>이금액을 영수함</td>
 
