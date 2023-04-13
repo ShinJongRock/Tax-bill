@@ -5,11 +5,11 @@ import Table from 'react-bootstrap/Table';
 
 const Tax = () => {
     return (
-        <center>
+        <center >
              {/* <Container style={{display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center'}}> */}
-            <Table  style={{width:"800px",border: "1px solid blue"}}>
+            <Table  style={{width:"850px",border: "1px solid blue" ,textAlign:'center' }}>
                 <tr  style={{border: "1px solid blue" ,  color:'blue'}}>
-                    <td colspan='15' rowspan='2' style={{height:'60px',width:'50px',fontSize:'30px'}}> 세 금 계 산 서 </td>
+                    <td colspan='15' rowspan='2' style={{height:'60px',width:'50px',fontSize:'30px',textAlign:'left'}}> 세 금 계 산 서 </td>
                     <td colSpan='7'  rowspan='2'style={{width:'10px'}}>공급받는자 보관용</td>
                     <td colSpan='4' style={{border: "1px solid blue" ,  color:'blue',width:'100px'}}>책 번 호</td>
                     <td colSpan='3' style={{border: "1px solid blue" ,  color:'blue' ,textAlign:'right'}}>권</td>
@@ -51,12 +51,12 @@ const Tax = () => {
                     
                 </tr>
                 <tr>
-                <td colSpan='3' style={{border: "1px solid blue" ,  color:'blue' ,width:"10px",height:'20px',fontSize:'18px'}}>상 호 (법인명)</td>
+                <td colSpan='3' style={{border: "1px solid blue" ,  color:'blue' ,width:"10px",height:'20px',fontSize:'18px' ,textAlign:'center'}}> 상 호 (법인명)</td>
                 <td colSpan='6' style={{border: "1px solid blue" ,  color:'blue'}}></td>
                 <td style={{border: "1px solid blue" ,  color:'blue'  , width:'5px'}}>성명</td>
                 <td  colSpan='4' style={{border: "1px solid blue" ,  color:'blue'}}></td>
                 <td style={{border: "1px solid blue" ,  color:'blue'  , width:'5px'}}>인</td>
-                <td colSpan='3' style={{border: "1px solid blue" ,  color:'blue' ,width:"10px",height:'20px',fontSize:'20px'}}>상 호 (법인명)</td>
+                <td colSpan='3' style={{border: "1px solid blue" ,  color:'blue' ,width:"10px",height:'20px',fontSize:'20px',textAlign:'center'}}>상 호 (법인명)</td>
                 <td colSpan='6' style={{border: "1px solid blue" ,  color:'blue'}}></td>
                 <td style={{border: "1px solid blue" ,  color:'blue' , width:'5px'}}>성명</td>
                 <td  colSpan='4' style={{border: "1px solid blue" ,  color:'blue'}}></td>
@@ -226,7 +226,7 @@ const Tax = () => {
             </Table>
             <br/> <br/> <br/>
 
-            <Table  style={{width:"800px",border: "1px solid red"  }}>
+            <Table  style={{width:"850px",border: "1px solid red"  ,textAlign:'center'}}>
                 <tr  style={{border: "1px solid red" ,  color:'red'}}>
                     <td colspan='15' rowspan='2' style={{height:'60px',width:'50px',fontSize:'30px'}}> 세 금 계 산 서 </td>
                     <td colSpan='7'  rowspan='2'style={{width:'10px'}}>공급받는자 보관용</td>
