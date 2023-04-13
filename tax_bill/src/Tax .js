@@ -225,7 +225,12 @@ const Tax = () => {
 
        
             </Table>
-            <br/> <br/> <br/>
+            <br/> <br/>
+                <div>
+                    -------------------------------------------------------------- 절 취 선 --------------------------------------------------------------
+                </div>
+             <br/>
+             <br/>
 
             <Table  style={{width:"850px",border: "1px solid red"  ,textAlign:'center'}}>
                 <tr  style={{border: "1px solid red" ,  color:'red'}}>
