@@ -83,7 +83,8 @@ const Tax = () => {
                 <tr>
                     <td colSpan='4' style={{border: "1px solid blue" ,  color:'blue'}}>작 성</td>
                     <td colSpan='13' style={{border: "1px solid blue" ,  color:'blue'}}>공 급 가 액</td>
-                    <td colSpan='10' style={{border: "1px solid blue" ,  color:'blue'}}>세 엑</td>
+                    <td colSpan='10' style={{border: "1px solid blue" ,  color:'blue'}}>세 액
+                    </td>
                     <td colSpan='5' style={{border: "1px solid blue" ,  color:'blue'}}>비 고</td>
                 </tr>
                 <tr>
@@ -213,7 +214,7 @@ const Tax = () => {
 
                     </tr>
                     <tr>
-                        <td colSpan='5' style={{border: "1px solid blue" ,  color:'blue'}}>1</td>
+                        <td colSpan='5' style={{border: "1px solid blue" ,  color:'blue'}}>-</td>
                         <td colSpan='5' style={{border: "1px solid blue" ,  color:'blue'}}></td>
                         <td colSpan='5' style={{border: "1px solid blue" ,  color:'blue'}}></td>
                         <td colSpan='5' style={{border: "1px solid blue" ,  color:'blue'}}></td>
@@ -302,7 +303,7 @@ const Tax = () => {
                 <tr>
                     <td colSpan='4' style={{border: "1px solid red" ,  color:'red'}}>작 성</td>
                     <td colSpan='13' style={{border: "1px solid red" ,  color:'red'}}>공 급 가 액</td>
-                    <td colSpan='10' style={{border: "1px solid red" ,  color:'red'}}>세 엑</td>
+                    <td colSpan='10' style={{border: "1px solid red" ,  color:'red'}}>세 액</td>
                     <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>비 고</td>
                 </tr>
                 <tr>
@@ -335,7 +336,7 @@ const Tax = () => {
                 
                 </tr>
                 <tr>
-                    <td colSpan='2' style={{border: "1px solid red" ,  color:'red',height:'50px' }}>2020</td>
+                    <td colSpan='2' style={{border: "1px solid red" ,  color:'red',height:'50px' }}>2023</td>
                         <td style={{border: "1px solid red" ,  color:'red',height:'50px'}}></td>
                         <td style={{border: "1px solid red" ,  color:'red',height:'50px'}}></td>
                         <td colSpan='2' style={{border: "1px solid red" ,  color:'red',height:'50px'}}></td>
@@ -368,7 +369,7 @@ const Tax = () => {
                         <td style={{border: "1px solid red" ,  color:'red'}}>월</td>
                         <td colSpan='6' style={{border: "1px solid red" ,  color:'red'}}>품 목</td>
                         <td colSpan='3' style={{border: "1px solid red" ,  color:'red'}}>규 격</td>
-                        <td colSpan='3' style={{border: "1px solid red" ,  color:'red'}}>수량</td>
+                        <td colSpan='3' style={{border: "1px solid red" ,  color:'red'}}>수 량</td>
                         <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>단 가</td>
                         <td colSpan='6' style={{border: "1px solid red" ,  color:'red'}}>공 급 가 액</td>
                         <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>세 액</td>
@@ -422,7 +423,7 @@ const Tax = () => {
                     </tr>
 
                     <tr>
-                        <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>합계금액</td>
+                        <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>합 계 금 액</td>
                         <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>현 금</td>
                         <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>수 표</td>
                         <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>어 음</td>
@@ -432,7 +433,7 @@ const Tax = () => {
 
                     </tr>
                     <tr>
-                        <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>1</td>
+                        <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}>-</td>
                         <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}></td>
                         <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}></td>
                         <td colSpan='5' style={{border: "1px solid red" ,  color:'red'}}></td>
